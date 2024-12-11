@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { assets } from '../assets/assets'
 
-const Myprofile = () => {
+const Profile = () => {
 
     const [userData, setUserData] = useState({
         name:"Shubham Gupta",
@@ -92,4 +92,4 @@ const Myprofile = () => {
       )
 }
 
-export default Myprofile
+export default Profile
