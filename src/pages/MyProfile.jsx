@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { assets } from '../assets/assets'
-import { use } from 'react'
 
 const MyProfile = () => {
 
